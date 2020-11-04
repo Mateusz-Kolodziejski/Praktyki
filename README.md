@@ -1,2 +1,2 @@
 # Praktyki
-Praktyki zawodowe
+Zadania na praktyki zawodowe
