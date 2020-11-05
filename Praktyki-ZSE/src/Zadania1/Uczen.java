@@ -2,7 +2,7 @@ package Zadania1;
 
 import java.util.Scanner;
 
-class Uczen
+ class Uczen
 {
     String imie;
     String nazwisko;
@@ -28,6 +28,7 @@ class Info
             uczen.wiek = Integer.parseInt(scan.nextLine());
 
             Uczen uczen2 = new Uczen();
+
             System.out.println("DANE UCZNIA 2:");
             System.out.println("Jak masz na imię?");
             uczen2.imie = scan.nextLine();
@@ -37,6 +38,7 @@ class Info
             uczen2.wiek = Integer.parseInt(scan.nextLine());
 
             Uczen uczen3 = new Uczen();
+
             System.out.println("DANE UCZNIA 3:");
             System.out.println("Jak masz na imię?");
             uczen3.imie = scan.nextLine();
