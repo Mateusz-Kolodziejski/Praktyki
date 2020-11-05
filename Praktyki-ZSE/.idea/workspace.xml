@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1ae26141-3696-4f17-8bbb-a16f8c3ae636" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktyki-ZSE/Info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktyki-ZSE/Uczen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktyki-ZSE/cwiczenie/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktyki-ZSE/cwiczenie/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktyki-ZSE/delta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Uczen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cwiczenie/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cwiczenie/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/delta.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jscY9WmYdSn1wUk6IZL0cQMVu5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Uczen">
+    <configuration name="Uczen" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Zadania1.Info" />
+      <module name="Praktyki-ZSE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="delta" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Zadania1.delta" />
+      <module name="Praktyki-ZSE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Uczen" />
+      <item itemvalue="Application.delta" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ae26141-3696-4f17-8bbb-a16f8c3ae636" name="Default Changelist" comment="" />
+      <created>1604596285536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604596285536</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604596863250">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1604596863250" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1604596917105">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604596917105" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1604596917105">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604596917105" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1604596917105">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604596917105" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1604596917105">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604596917105" />
+  </component>
+</project>
