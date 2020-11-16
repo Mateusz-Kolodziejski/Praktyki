@@ -16,4 +16,12 @@ package Human;
         this.nazwisko = nazwisko;
         this.pensja = pensja;
     }
+
+
+
+
+
+
+
+
 }
