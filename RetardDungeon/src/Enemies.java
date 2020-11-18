@@ -1,26 +1,33 @@
+import java.util.Random;
+
 public class Enemies
 {
+    String name;
+     private int enemy_hp;
+     private int enemy_damage;
 
-    public static class Troll
-    {
 
-        static String name = "Troll skalny";
-        int enemy_hp = 150;
-        int enemy_dmg = 15;
+    public Enemies(String name, int enemy_hp, int enemy_damage) {
+        this.name = name;
+        this.enemy_hp = enemy_hp;
+        this.enemy_damage = enemy_damage;
     }
 
-    public static class Ork
+    void spawn_enemy ()
     {
-        static String name = "Ork";
-        int enemy_hp = 100;
-        int enemy_dmg = 20;
+        Random rand = new Random();
+
+        String[] enemy_name = {"Troll","Ork","Bandyta","Wilk","Zombie","Zjawa"};
+
+        name = enemy_name[rand.nextInt(enemy_name.length)];
+
+        enemy_hp = (int)(100 * Math.random());
+        System.out.println("Na arenę wkracza : "+name);
     }
 
-    public static class Wilk
+     void enemy_attack ()
     {
-       static  String name = "Wściekły wilk";
-        int enemy_hp = 50;
-        int enemy_dmg = 5;
+        enemy_damage = (int)(enemy_damage * Math.random());
+        Player.setPlayer_hp(Player.getPlayer_hp() - enemy_damage);
     }
-
 }
